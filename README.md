@@ -17,4 +17,7 @@ gcc -o uptime uptime.c
 ./uptime
 
 ```
-
+To run normaly just cd into the repo file and do 
+```
+./uptime
+```
