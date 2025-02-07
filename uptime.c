@@ -11,7 +11,7 @@ int main(){
     fscanf(file, "%lf", &uptime);
     fclose(file);
 
-    printf("Sys uptime %.2F seconds\n", uptime);
+    printf("Sys uptime %.2F seconds\n\n", uptime);
     return 0;
 }
 
