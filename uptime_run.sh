@@ -1,4 +1,3 @@
-#!/bin/bash
 sudo pacman -S git
 
 sudo pacman -S gcc
